@@ -1,4 +1,4 @@
-![Lumen Logo](Luma%201280.png)
+![Lumen Logo](Assets/Luma%201280.png)
 
 # Lumen
 
