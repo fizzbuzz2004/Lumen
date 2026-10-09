@@ -1,3 +1,5 @@
+![Lumen Logo](Luma%201280.png)
+
 # Lumen
 
 Lumen ist eine kleine, dynamisch typisierte Programmiersprache mit Tree-Walking-Interpreter, geschrieben in Rust. Das Projekt zeigt die klassische Pipeline einer Sprache in überschaubarem Umfang: Lexer, Parser, AST und Auswertung.
