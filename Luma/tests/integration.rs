@@ -4,7 +4,7 @@ use lumen::{run_to_string, LumenError};
 
 #[test]
 fn example_program_prints_fib_10() {
-    let source = include_str!("../examples/beispiel.lm");
+    let source = include_str!("../examples/example.lm");
     assert_eq!(run_to_string(source).expect("Beispiel sollte laufen"), "55\n");
 }
 
