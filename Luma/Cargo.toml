@@ -1,0 +1,11 @@
+[package]
+name = "lumen"
+version = "0.1.0"
+edition = "2021"
+description = "Lumen: eine kleine dynamisch typisierte Sprache mit Tree-Walking-Interpreter"
+
+[dependencies]
+thiserror = "1"
+
+[lints.rust]
+unsafe_code = "forbid"
